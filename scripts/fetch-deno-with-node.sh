@@ -1,0 +1,1 @@
+node ../src/fetch/fetch-deno.js
