@@ -1,1 +1,1 @@
-deno run --allow-net  --import-map=../src/fetch/import_map_deno.json ../src/fetch/fetch-node.js
+deno run --allow-net  --import-map=../src/fetch/import-map-deno.json ../src/fetch/fetch-node.js

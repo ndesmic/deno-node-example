@@ -1,0 +1,5 @@
+{
+	"imports": {
+		"node:stream/web": "./web-stream.js"
+	}
+}

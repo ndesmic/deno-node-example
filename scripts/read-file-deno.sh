@@ -1,1 +1,1 @@
-deno run --allow-read --import-map=../src/read-file/import_map_deno.json ../src/read-file/read-file-deno.js
+deno run --allow-read --import-map=../src/read-file/import-map-deno.json ../src/read-file/read-file-deno.js
