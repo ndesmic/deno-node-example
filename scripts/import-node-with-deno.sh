@@ -1,0 +1,1 @@
+deno run --import-map=../src/imports/import-map-deno.json ../src/imports/import-node.js

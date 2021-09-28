@@ -1,0 +1,1 @@
+node --experimental-loader ../src/imports/deno-loader.js ../src/imports/import-deno.js

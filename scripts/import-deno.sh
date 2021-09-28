@@ -1,0 +1,1 @@
+deno run ../src/imports/import-deno.js
