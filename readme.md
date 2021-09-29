@@ -8,5 +8,6 @@ There are 3 examples:
 - Filesystem access
 - Fetching
 - Http Listen + Environment
+- Importing libraries
 
 As well a small example of using Web Streams that I used to test environmental behavior.

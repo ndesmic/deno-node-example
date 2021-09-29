@@ -1,1 +1,1 @@
-node --experimental-loader ../src/imports/deno-loader.js ../src/imports/import-deno.js
+node --experimental-loader ../src/deno-polyfill/deno-loader.js ../src/imports/import-deno.js
