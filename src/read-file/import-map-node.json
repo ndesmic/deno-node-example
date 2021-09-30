@@ -1,5 +1,5 @@
 {
 	"imports": {
-		"deno": ""
+		"fs": "https://deno.land/std/node/fs.ts"
 	}
 }
